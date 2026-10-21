@@ -1,6 +1,6 @@
 # Escape Prison for Brainrots: launch and fixes
 
-A postmortem of Escape Prison for Brainrots, a tycoon map I built in Fortnite (an online game that lets players build and publish their own games inside it). It has been played for about 36 million minutes, and on June 26, 2026 it had 17,992 players online at the same time.
+A postmortem of Escape Prison for Brainrots, a tycoon map I built and published in Fortnite with my studio, HMOS. It has been played for about 36 million minutes, and on June 26, 2026 it had 17,992 players online at the same time.
 
 Island code 9443-3479-4688, released May 15, 2026. I wrote all of the code and every game system for this map myself.
 
